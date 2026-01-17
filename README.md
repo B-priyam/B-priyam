@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Priyam Bhardwaj
+# Full Stack Developer
 
 <!--
 **B-priyam/B-priyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
